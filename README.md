@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-Collection of all my Data Science Bootcamp projects
+Capstone Project - Lists, Functions and String Handling.
